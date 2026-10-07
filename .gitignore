@@ -1,0 +1,9 @@
+*.rar
+*.zip
+*.7z
+*.webm
+*.mp4
+__pycache__/
+.venv/
+venv/
+.env
